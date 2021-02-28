@@ -1,0 +1,10 @@
+Country: Texas Cases: 1342779
+Country: California Cases: 1350716
+Country: Florida Cases: 1049638
+Country: Illinois Cases: 787573
+Country: New York Cases: 734600
+Country: Georgia Cases: 499371
+Country: Ohio Cases: 467432
+Country: Michigan Cases: 426576
+Country: Pennsylvania Cases: 423828
+Country: Wisconsin Cases: 409386
